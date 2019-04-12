@@ -13,7 +13,7 @@
 
 ##### 2. Tambah NodeMCU Board di Boards Manager :
 
-<img src="https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/nodemcu.png" width="710">
+<img src="https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/nodemcu.png" width="720">
 
 ### Tutorial Instalasi Library Telegram
 
