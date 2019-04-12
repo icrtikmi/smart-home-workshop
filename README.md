@@ -14,3 +14,9 @@
 ##### 2. Tambah NodeMCU Board di Boards Manager :
 
 ![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/nodemcu.png "Board")
+
+### Tutorial Instalasi Library Telegram
+
+1. Clone Github dibawah ini :
+
+`https://github.com/roboticsikmi/ESP8266-TelegramBot`
