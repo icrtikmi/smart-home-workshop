@@ -37,8 +37,8 @@
 
 ##### 3. Klik `/newbot` untuk Membuat Bot :
 
-![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/response.png "Response")
+<img src="https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/response.png" width="256">
 
 ##### 4. Bot Sudah Selesai dibuat :
 
-![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/bot.png "Bot")
+<img src="https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/bot.png" width="256">
