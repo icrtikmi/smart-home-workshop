@@ -27,4 +27,6 @@
 
 ### Download Telegram di bawah ini :
 
-`https://play.google.com/store/apps/details?id=org.telegram.messenger`
+[Download](https://play.google.com/store/apps/details?id=org.telegram.messenger)
+
+[<img src="https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/googleplay.png">](https://play.google.com/store/apps/details?id=org.telegram.messenger)
