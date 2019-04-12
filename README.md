@@ -25,6 +25,14 @@
 
 ![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/library.png "Library")
 
-### Download Telegram di bawah ini :
+### Instalasi Telegram :
+
+##### 1. Download Telegram :
 
 [<img src="https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/googleplay.png">](https://play.google.com/store/apps/details?id=org.telegram.messenger)
+
+##### 2. Cari BotFather
+
+##### 3. Klik Tombol Start, Untuk Pembuatan BOT
+
+![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/telegram.png "Telegram")
