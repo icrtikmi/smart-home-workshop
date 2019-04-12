@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/skema.png "Skema")
 
-### Tutorial Instalasi NodeMCU Board
+## Tutorial Instalasi NodeMCU Board
 
 ##### 1. Salin Kode di Bawah ini di dalam Boards Manager :
 `http://arduino.esp8266.com/stable/package_esp8266com_index.json`
@@ -15,7 +15,7 @@
 
 <img src="https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/nodemcu.png" width="720">
 
-### Tutorial Instalasi Library Telegram
+## Tutorial Instalasi Library Telegram
 
 ##### 1. Clone Github dibawah ini :
 
@@ -25,7 +25,7 @@
 
 ![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/library.png "Library")
 
-### Tutorial Membuat Bot Telegram
+## Tutorial Membuat Bot Telegram
 
 ##### 1. Download Telegram :
 
