@@ -24,3 +24,7 @@
 ##### 2. Include Library Telegram :
 
 ![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/library.png "Library")
+
+### Download Telegram di bawah ini :
+
+`https://play.google.com/store/apps/details?id=org.telegram.messenger`
