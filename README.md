@@ -2,8 +2,6 @@
 
 #### Skema Perancangan Project :
 
----
-
 ![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/skema.png "Skema")
 
 ### Tutorial Installasi NodeMCU Board
