@@ -95,7 +95,7 @@ void setup() {
 void loop() {
   if (millis() > Bot_lasttime + Bot_mtbs)  {
     bot.getUpdates(bot.message[0][1]);   // launch API GetUpdates up to xxx message
-    Bot_ExecMessages();   // reply to message with Echo
+    Bot_ExecMessages();                 // reply to message with Echo
     Bot_lasttime = millis();
   }
 }
