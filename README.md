@@ -21,7 +21,7 @@ Dokumentasi instalasi dan tutorial acara workshop ICRT (IKMI Cirebon Robotic Tea
 
 ##### 1. Clone Github dibawah ini :
 
-`https://github.com/roboticsikmi/ESP8266-TelegramBot`
+[https://github.com/roboticsikmi/ESP8266-TelegramBot](https://github.com/roboticsikmi/ESP8266-TelegramBot)
 
 ##### 2. Include Library Telegram :
 
