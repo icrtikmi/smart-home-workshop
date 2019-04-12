@@ -1,5 +1,7 @@
 # Workshop - Control Home Lights Remotely Based on IoT
 
+####### Dokumentasi workshop ICRT (IKMI Cirebon Robotic Team) yang diselenggarakan pada tanggal 13 April 2019
+
 ## Skema Perancangan Project :
 
 ![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/skema.png "Skema")
