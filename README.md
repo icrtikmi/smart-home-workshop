@@ -17,6 +17,6 @@
 
 ### Tutorial Instalasi Library Telegram
 
-1. Clone Github dibawah ini :
+##### 1. Clone Github dibawah ini :
 
 `https://github.com/roboticsikmi/ESP8266-TelegramBot`
