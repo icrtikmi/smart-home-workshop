@@ -4,3 +4,5 @@
 `http://arduino.esp8266.com/stable/package_esp8266com_index.json`
 
 ![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/preferences.png "Preferences")
+
+![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/board.png "Board")
