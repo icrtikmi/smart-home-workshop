@@ -5,4 +5,6 @@
 
 ![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/preferences.png "Preferences")
 
+##### 2. Tambah NodeMCU Board di Boards Manager :
+
 ![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/board.png "Board")
