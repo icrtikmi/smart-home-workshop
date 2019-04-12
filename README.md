@@ -1,6 +1,6 @@
 # Workshop - Control Home Lights Remotely Based on IoT
 
-#### Skema Perancangan Project :
+## Skema Perancangan Project :
 
 ![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/skema.png "Skema")
 
