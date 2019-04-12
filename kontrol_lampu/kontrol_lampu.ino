@@ -3,13 +3,13 @@
 #include <ESP8266TelegramBOT.h>
 
 // Initialize Wifi connection to the router
-char ssid[] = "cibofdev";              // your network SSID (name)
-char pass[] = "cibof123";         // your network key
+char ssid[] = "Your SSID";         // your network SSID (name)
+char pass[] = "Your password";     // your network key
 
 // Initialize Telegram BOT
-#define BOTtoken "876711478:AAF6DhdD4xu7kdbwivfe60oLmYzY0DAokAw"  //token of FlashledBOT
-#define BOTname "ICRT 2019"
-#define BOTusername "ICRTBot"
+#define BOTtoken "Your token"  //token of FlashledBOT
+#define BOTname "Your bot name"
+#define BOTusername "Your bot username end with bot word"
 
 TelegramBOT bot(BOTtoken, BOTname, BOTusername);
 
@@ -21,11 +21,10 @@ long Bot_lasttime;   //last time messages' scan has been done
 
 int ledStatus = 0;
 
-
-
 /********************************************
  * EchoMessages - function to Echo messages *
  ********************************************/
+
 void Bot_ExecMessages() {
   for (int i = 1; i < bot.message[0][0].toInt() + 1; i++)      {
     // Kamar Depan
@@ -62,7 +61,6 @@ void Bot_ExecMessages() {
   }
   bot.message[0][0] = "";   // All messages have been replied - reset new messages
 }
-
 
 void setup() {
   Serial.begin(9600);
