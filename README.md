@@ -33,7 +33,7 @@
 
 ##### 2. Cari BotFather, Lalu Klik Tombol Start :
 
-![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/telegram.png =50x50 "Telegram")
+![](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/telegram.png =50x50)
 
 ##### 3. Klik `/newbot` untuk Membuat Bot :
 
