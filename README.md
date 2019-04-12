@@ -20,3 +20,7 @@
 ##### 1. Clone Github dibawah ini :
 
 `https://github.com/roboticsikmi/ESP8266-TelegramBot`
+
+##### 2. Include Library Telegram :
+
+![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/library.png "Library")
