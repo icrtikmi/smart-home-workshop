@@ -25,7 +25,7 @@
 
 ![alt text](https://github.com/roboticsikmi/workshop-icrt-01/blob/master/images/library.png "Library")
 
-### Tutorial Membuat Bot Telegram :
+### Tutorial Membuat Bot Telegram
 
 ##### 1. Download Telegram :
 
